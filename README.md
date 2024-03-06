@@ -21,6 +21,7 @@ svaha brings in its own libraries, except for zlib. Make sure to have zlib insta
 It uses a frozen version of htslib and floating versions of gfakluge. To build svaha:  
 
                 git clone --recursive https://github.com/edawson/svaha
+                cd svaha
                 make
 
 
